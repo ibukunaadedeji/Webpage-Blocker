@@ -10,4 +10,4 @@ Add IP address to be redirected to --} Run the script
 Windows --Go to --}“C:\Windows\System32\drivers\etc\hosts” in you file explorer --} make edits to websit you want to block --}
 Add IP address to be redirected to --} Run the script
  
- Linux follows pretty much the same role as Mac ---} “/etc/hosts” then follow all other steps
+ Linux follows pretty much the same role as Mac ---} “/etc/hosts” then follow all other steps.
